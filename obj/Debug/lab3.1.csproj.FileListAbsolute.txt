@@ -1,0 +1,6 @@
+C:\Users\alvin\Desktop\it1050\lab3.1\lab3.1\bin\Debug\lab3.1.exe.config
+C:\Users\alvin\Desktop\it1050\lab3.1\lab3.1\bin\Debug\lab3.1.exe
+C:\Users\alvin\Desktop\it1050\lab3.1\lab3.1\bin\Debug\lab3.1.pdb
+C:\Users\alvin\Desktop\it1050\lab3.1\lab3.1\obj\Debug\lab3.1.csprojResolveAssemblyReference.cache
+C:\Users\alvin\Desktop\it1050\lab3.1\lab3.1\obj\Debug\lab3.1.exe
+C:\Users\alvin\Desktop\it1050\lab3.1\lab3.1\obj\Debug\lab3.1.pdb
